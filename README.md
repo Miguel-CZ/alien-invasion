@@ -1,2 +1,2 @@
-# alien-invasion
+# Alien Invasion
 Game Alien Invasion
